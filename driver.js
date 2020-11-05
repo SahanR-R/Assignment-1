@@ -2,7 +2,7 @@
  *  Driver.js
  *  This file stores the code libraries used in the Maze App
  *
- *  No further code should be added to this file.
+ *  No further changes to be made
  */
 
 /*
